@@ -1,6 +1,25 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Android app development using Kotlin and Jetpack Compose!
+🌱 I’m an Android app developer seeking meaningful employment. 
+
+
+### My Tech Stack: 🖥️
+
+- Kotlin Language 
+- Android Studio
+- MVVM architecture
+- Adaptive UI Design using Jetpack Compose 
+- Understanding of Views based design
+- Compose Navigation
+- Room, Datastore, & SQLite
+- Notifications, WorkManager, & AlarmManager
+- Testing using JUnit and Espresso
+- Animations using Compose & AGSL 
+- Vector Graphics including Fonts
+- Hilt Dependency Injection
+- Retrofit 2 & Coil
+- Version control using Github
+- Wireframing & Design in Figma  
 
 ### A little about me:
 Whilst learning to code I have worked full-time as a Highway Engineer! I realised that a career shakeup was needed and have been retraining as an Android Dev in my spare time!
