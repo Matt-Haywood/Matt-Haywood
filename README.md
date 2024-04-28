@@ -37,7 +37,7 @@ I am currently in development of two apps:
      - Room database for storing theme specific settings and the alarm repository.
      - Hilt for dependency injection to provide context and helper functions into the Alarm Workers.
      - Notifications for Alarms using NotificationCompat, AlarmManager, and Broadcast Reciever.
-     - 
+       
  - Hopeless Romantic - An app to help those like myself! An app that reminds people in relationships to do nice things for their partner if they're prone to forgetting to. 
 
 I'm looking forward to the challenges that await! 
