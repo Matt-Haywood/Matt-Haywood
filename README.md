@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m an Android app developer seeking meaningful employment. 
+🌱 I’m an Engineer learning Software Development! 
+Python and Kotlin to make Engineering applications and Mobile Apps. 
 
 
 ### My Tech Stack: 🖥️
@@ -22,12 +23,12 @@
 - Wireframing & Design in Figma  
 
 ### A little about me:
-Whilst learning to code I have worked full-time as a Highway Engineer! I realised that a career shakeup was needed and have been retraining as an Android Dev in my spare time!
+Whilst learning to code I have worked full-time as a Highway Engineer! I've always been interested in coding and wanted to take my chance to get more involved with it!
 
 In 2022 I completed the MIT Introduction to Programming with Python course. 
 Throughout 2023 I undertook the Google Android Basics with Compose course in my spare time which I completed on the 30/12/2023 whilst still managing to progress my Highway Engineering career.  
 
-I am currently in development of two apps: 
+I am currently in development of two Android apps and an Engineering application: 
  - Game Clock
      - A desktop clock app with background animations designed to help gamers keep an eye on their play time and provide a clock in a style that will match their game experience.
      - Custom Animations using Jetpack compose Animations - Launched Effect, Infinite Transitions, Animate Float, Color, Value, etc.
@@ -38,9 +39,15 @@ I am currently in development of two apps:
      - Hilt for dependency injection to provide context and helper functions into the Alarm Workers.
      - Notifications for Alarms using NotificationCompat, AlarmManager, and Broadcast Reciever.
        
- - Hopeless Romantic - An app to help those like myself! An app that reminds people in relationships to do nice things for their partner if they're prone to forgetting to. 
+ - Hopeless Romantic
+     - An app to help those like myself! An app that reminds people in relationships to do nice things for their partner if they're prone to forgetting to.
 
-I'm looking forward to the challenges that await! 
+ - Sign Foundation Automated design
+    - Grasshopper/Rhino to create a 3d parametric model of a sign, signpost, and foundation.
+    - Using in-built automation tools to iterate towards the best designs based on carbon costs and structural stability.
+    - Viktor to create a python web app to run the automated parametric model. 
+
+
 <!--
 **Matthollemue/Matthollemue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
