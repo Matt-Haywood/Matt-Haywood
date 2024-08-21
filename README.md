@@ -1,14 +1,14 @@
-### Hi there 👋
 
-🌱 I’m an Engineer learning Software Development! 
-Python and Kotlin to make Engineering applications and Mobile Apps. 
+I’m an Engineer transferring into Software Development! 
+
+Utilising Python and Kotlin to make Engineering applications and Mobile Apps. 
 
 
 ### My Tech Stack: 🖥️
 
 - Kotlin Language 
 - Android Studio
-- MVVM architecture
+- MVVM/MVI architecture
 - Adaptive UI Design using Jetpack Compose 
 - Understanding of Views based design
 - Compose Navigation
@@ -28,6 +28,8 @@ Whilst learning to code I have worked full-time as a Highway Engineer! I've alwa
 In 2022 I completed the MIT Introduction to Programming with Python course. 
 Throughout 2023 I undertook the Google Android Basics with Compose course in my spare time which I completed on the 30/12/2023 whilst still managing to progress my Highway Engineering career.  
 
+Since then I have been constantly learning new development techniques to help further my skills and offerings to potential new employers. 
+
 I am currently in development of two Android apps and an Engineering application: 
  - Game Clock
      - A desktop clock app with background animations designed to help gamers keep an eye on their play time and provide a clock in a style that will match their game experience.
@@ -39,8 +41,10 @@ I am currently in development of two Android apps and an Engineering application
      - Hilt for dependency injection to provide context and helper functions into the Alarm Workers.
      - Notifications for Alarms using NotificationCompat, AlarmManager, and Broadcast Reciever.
        
- - Hopeless Romantic
-     - An app to help those like myself! An app that reminds people in relationships to do nice things for their partner if they're prone to forgetting to.
+ - Cloudimals (WIP)
+     - A simple app to turn pictures of clouds into animals.
+     - Utilises Room to upload the user photo to an AI API, detirmine that it is actually a picture of a cloud and then turn it into the animal of the users choosing.
+     - Great for helping visualise cloud animals that one person can see but another might not! 
 
  - Sign Foundation Automated design
     - Grasshopper/Rhino to create a 3d parametric model of a sign, signpost, and foundation.
@@ -49,7 +53,7 @@ I am currently in development of two Android apps and an Engineering application
 
 
 <!--
-**Matthollemue/Matthollemue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
